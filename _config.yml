@@ -1,0 +1,28 @@
+name: Wealth Management
+favicon: null
+layout_spectrum: 0.638985512079671
+typography_spectrum: 0.8537982010748237
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.014598623616620898
+  lightness: 0.245761061552912
+  saturation: 0.02178523992188275
+  rhythmicContrast: 0.6581079002935439
+purpose: []
